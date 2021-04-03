@@ -77,3 +77,7 @@ C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\obj\Debug\SalesWebMvc.csproj.Co
 C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\obj\Debug\SalesWebMvc.csproj.CopyComplete
 C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\obj\Debug\SalesWebMvc.dll
 C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\obj\Debug\SalesWebMvc.pdb
+C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\bin\EntityFramework.dll
+C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\bin\EntityFramework.xml
+C:\Users\diego\Documents\SalesWebMvc\SalesWebMvc\bin\EntityFramework.SqlServer.xml
